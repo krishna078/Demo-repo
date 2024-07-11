@@ -6,7 +6,7 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 # Email server configuration
-SMTP_SERVER = 'smtp.office365.in'  # e.g., smtp.gmail.com for Gmail
+SMTP_SERVER = 'smtp.office365.com'  # e.g., smtp.gmail.com for Gmail
 SMTP_PORT = 587  # For TLS
 EMAIL_ADDRESS = 'you mail id'
 EMAIL_PASSWORD = 'Password'  #if you are using gmail then Generate App Password
